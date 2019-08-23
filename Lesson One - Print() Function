@@ -1,1 +1,5 @@
+When you want to tell the computer to write something on the screan you use the print() Function.
+So if I wanted to tell the screen to write "Hello World!" I would simply write,
+print("Hello World!")
 
+Command - print("")
