@@ -8,7 +8,3 @@ print("I am a print command")
 
 #Practice - Type your name in the print command
 print("")
-
-"""
-Wow! you did it, in the next leason you will be learning what variables are and how to use them.
-"""
