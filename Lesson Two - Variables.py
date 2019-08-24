@@ -5,7 +5,7 @@ In this lesson you will learn
 how to use variables
 """
 
-# This is a Variable
+#This is a Variable
 n = 1
 
 """
